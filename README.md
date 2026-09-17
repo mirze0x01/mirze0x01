@@ -1,4 +1,4 @@
-**Independent security researcher
+**Independent security researcher**
 
 I investigate, document, and responsibly disclose vulnerabilities across public and private programs. My work spans application security, mobile security, and Web3. I am also a HackerOne Brand Ambassador.
 
